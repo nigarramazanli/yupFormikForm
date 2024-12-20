@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "84c4",
+      "email": "nigarramazanli9@gmail.com",
+      "age": 22,
+      "password": "22",
+      "term": true
+    },
+    {
+      "id": "bc93",
+      "email": "nigarramazanli9@gmail.com",
+      "age": 22,
+      "password": "22",
+      "term": true
+    }
+  ]
+}
